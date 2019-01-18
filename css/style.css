@@ -309,7 +309,7 @@ nav ul li a {
 }
 
 #about .about-descr .p-heading {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Lato', serif;
   font-size: 28px;
   text-align: left;
 }
@@ -574,7 +574,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #b8a07e;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -597,7 +597,7 @@ nav ul li a {
 
 #footer .socials-media ul li a {
   font-size: 24px;
-  color: #999;
+  color: #e8e3e3;
   letter-spacing: 0.1em;
   font-weight: 500;
   background: transparent;
@@ -620,6 +620,7 @@ nav ul li a {
 
 #footer p {
   font-size: 12px;
+  color: #e8e3e3;
   letter-spacing: 0.1em;
   font-weight: 500;
   margin-top: 0;
@@ -628,4 +629,32 @@ nav ul li a {
 
 .credits {
   font-size: 13px;
+}
+.counter {
+  background-color:#f5f5f5;
+  padding: 20px 0;
+  border-radius: 5px;
+}
+
+.count-title {
+  font-size: 40px;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.count-text {
+  font-size: 13px;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.fa-2x {
+  margin: 0 auto;
+  float: none;
+  display: table;
+  color: #4ad1e5;
 }
