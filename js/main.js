@@ -221,7 +221,7 @@ $(document).ready(function() {
 	};
 	
 	$.fn.countTo.defaults = {
-		from: 9678,               // the number the element should start at
+		from: 19678,               // the number the element should start at
 		to: 0,                 // the number the element should end at
 		speed: 1000,           // how long it should take to count between the target numbers
 		refreshInterval: 100,  // how often the element should be updated
