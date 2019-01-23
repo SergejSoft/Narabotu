@@ -235,6 +235,7 @@ nav ul li a {
   color: #afafaf;
 }
 
+
 /*----------------------------------------------------------------------------------*/
 /*  Header
 /*-----------------------------------------------------------------------------------*/
@@ -264,7 +265,7 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 23px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
