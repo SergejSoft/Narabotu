@@ -292,7 +292,7 @@ nav ul li a {
   width: 100%;
   height: auto;
   background: #f7f7f7;
-  padding-top: 190px;
+  padding-top: 30px;
 }
 
 #about .div-img-bg {
@@ -659,3 +659,5 @@ nav ul li a {
   display: table;
   color: #4ad1e5;
 }
+
+/* pulsing button example*/
